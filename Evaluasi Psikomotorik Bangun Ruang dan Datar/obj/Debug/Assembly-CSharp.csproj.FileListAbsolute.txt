@@ -1,0 +1,2 @@
+D:\TA\Evaluasi-Psikomotorik-Bangun-Ruang\Evaluasi Psikomotorik Bangun Ruang dan Datar\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\TA\Evaluasi-Psikomotorik-Bangun-Ruang\Evaluasi Psikomotorik Bangun Ruang dan Datar\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
